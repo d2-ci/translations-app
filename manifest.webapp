@@ -7,17 +7,18 @@
     }
   },
   "appType": "APP",
-  "name": "Translations App",
-  "version": "26.0.15",
-  "description": "DHIS2 Translation/Internationalization App",
-  "developer": {
-    "name": "Gregory Wilson",
-    "email": "gwilson@baosystems.com"
-  },
+  "name": "DHIS2 Translations App",
+  "version": "1.0.0-beta.1",
+  "description": "DHIS2 Translations App",
   "icons": {
-    "16": "icon-16.png",
-    "48": "icon.png",
-    "128": "icon-128.png"
+    "48": "icon.png"
   },
-  "manifest_generated_at": "Tue Oct 23 2018 14:00:13 GMT+0000 (UTC)"
+  "developer": {
+    "url": "https://dhis2.github.io",
+    "name": "DHIS2"
+  },
+  "dhis2": {
+    "apiVersion": "30"
+  },
+  "manifest_generated_at": "Fri Nov 09 2018 21:50:20 GMT+0000 (UTC)"
 }
