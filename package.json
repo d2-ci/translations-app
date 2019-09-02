@@ -1,14 +1,6 @@
 {
   "name": "translations-app",
-  "version": "26.0.15",
   "description": "DHIS2 Translation/Internationalization App",
-  "main": "src/index.html",
-  "keywords": [
-    "DHIS2",
-    "App",
-    "BAO Systems"
-  ],
-  "author": "Gregory Wilson <gwilson@baosystems.com>",
   "license": "BSD-3-Clause",
-  "homepage": "https://github.com/dhis2/translations-app"
+  "version": "26.0.15"
 }
