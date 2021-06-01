@@ -1,0 +1,8 @@
+{
+  "type": "app",
+  "name": "translations",
+  "title": "Translations",
+  "coreApp": true,
+  "version": "1.0.0",
+  "description": ""
+}
