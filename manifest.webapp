@@ -3,7 +3,7 @@
   "short_name": "translations",
   "name": "Translations",
   "description": "",
-  "version": "26.2.31",
+  "version": "26.2.32",
   "core_app": true,
   "launch_path": "index.html",
   "default_locale": "en",
@@ -15,7 +15,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Wed May 24 2023 02:26:53 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Fri May 26 2023 02:08:32 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
