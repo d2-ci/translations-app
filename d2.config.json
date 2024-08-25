@@ -1,0 +1,10 @@
+{
+  "id": "c21c74de-eddb-428e-99cf-f9d6570edf6c",
+  "type": "app",
+  "name": "translations",
+  "title": "Translations",
+  "coreApp": true,
+  "minDHIS2Version": 2.41,
+  "version": "100.0.5",
+  "description": ""
+}
