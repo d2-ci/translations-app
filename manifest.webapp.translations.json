@@ -35,6 +35,10 @@
     }
   },
   {
+    "locale": "en_US",
+    "translations": {}
+  },
+  {
     "locale": "es",
     "translations": {}
   },
