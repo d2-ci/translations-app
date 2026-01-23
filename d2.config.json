@@ -4,8 +4,8 @@
   "name": "translations",
   "title": "Translations",
   "coreApp": true,
-  "minDHIS2Version": 2.41,
-  "version": "100.0.11",
+  "minDHIS2Version": "2.41",
+  "version": "100.0.13",
   "description": "",
   "entryPoints": {
     "app": "index.html"
