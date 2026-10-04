@@ -28,6 +28,10 @@
     "translations": {}
   },
   {
+    "locale": "de",
+    "translations": {}
+  },
+  {
     "locale": "en",
     "translations": {
       "APP_TITLE": "Translations",
